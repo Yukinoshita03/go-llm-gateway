@@ -1,0 +1,9 @@
+.idea/
+.DS_Store
+.env
+.env.*
+!.env.example
+bin/
+coverage.out
+*.prof
+*.test
